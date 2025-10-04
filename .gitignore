@@ -15,3 +15,8 @@ Git Intro & How to hand your homework.ipynb
 
 # Ignore CSV files
 *.csv
+.DS_Store
+*.pkg
+.venv/
+__pycache__/
+.ipynb_checkpoints/
